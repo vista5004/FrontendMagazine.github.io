@@ -7,7 +7,7 @@ I immediately started thinking about implementing this in CSS. So after watching
 在观看了几集电视剧之后，我想到可以用 CSS 来实现 Netflix 的 logo 动画，于是我看了几部作品之后，就用 [CodePen](http://codepen.io/pixelass/) 来重现这个 logo。<p>
 ###第一个概念/First concept
 My first implementation was a little dirty since I was trying a few things.<br/>
-我的第一个实现方式是有点累赘的，因此我尝试采用新技术。<p>
+因为我想要尝试某些技术方案导致我的第一种实现方式有些累赘。<p>
 For example: I wanted to do this in pure CSS and I also wanted to be able to run the animation again when I click a button, so I had to use some magic. Luckily I always have a few tricks up my sleeve when it comes to CSS.<br/>
 例如：我想使用纯 CSS 技术来实现它，并且我也想当我点击按钮的时候，这个动画再执行一次，所以我要使用一些不可思议技巧。幸运的是当我写 CSS 代码的时候，总会有一些小技巧会在我的脑海里涌现。<p>
 But let’s talk about the actual animation.<br/>
